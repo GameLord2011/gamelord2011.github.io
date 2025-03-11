@@ -11,4 +11,5 @@
 body{
     color: var(--foreground);
     background-color: var(--background);
+    text-align: center;
 }
