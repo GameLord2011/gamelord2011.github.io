@@ -13,3 +13,8 @@ body{
     background-color: var(--background);
     text-align: center;
 }
+
+ul {
+    width: 50%;
+    margin: auto;
+}
