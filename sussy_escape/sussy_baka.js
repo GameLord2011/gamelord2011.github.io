@@ -29,4 +29,4 @@ while ((site1 === site2 || site1 === site3 || site2 === site3)) {
 
 window.open(site1, '_blank', 'noopener,noreferrer');
 window.open(site2, '_blank', 'noopener,noreferrer');
-window.location.href = site3;
+//window.location.href = site3;
